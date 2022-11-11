@@ -1,4 +1,5 @@
 Hello Git!
 How are you!
 Fine,Thank you.and you?
-I am fine too! Thank you
+I am fine too! Thank you!
+Bye! Bye!
